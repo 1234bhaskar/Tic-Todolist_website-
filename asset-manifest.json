@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tic-Todolist_website-/static/css/main.8e9d9189.css",
+    "main.js": "/Tic-Todolist_website-/static/js/main.a6e64dda.js",
+    "index.html": "/Tic-Todolist_website-/index.html",
+    "main.8e9d9189.css.map": "/Tic-Todolist_website-/static/css/main.8e9d9189.css.map",
+    "main.a6e64dda.js.map": "/Tic-Todolist_website-/static/js/main.a6e64dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9d9189.css",
+    "static/js/main.a6e64dda.js"
+  ]
+}
